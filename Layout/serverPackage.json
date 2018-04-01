@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "author": "moyu",
+  "content": "",
+  "config": {
+    "href": "",
+    "host": "",
+    "port": 1507,
+    "debug": true
+  },
+  "dataList": [
+    {
+      "notes": "领奖",
+      "content":"data里存数据",
+      "url": "/muyu1/GetPackage",
+      "type": "get",
+      "data": {
+        "Code": 0,
+        "Data": 232,
+        "Message": "string"
+      }
+    }]
+}
